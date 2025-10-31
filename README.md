@@ -1,6 +1,6 @@
 # ROOTGradientSpectra
 
-An OpenGL-enhanced ROOT macro for **multi-gradient histogram overlays**, ideal for **energy-spectra visualization** and **data presentation** in experimental and nuclear physics.
+An OpenGL-enhanced CERN-ROOT macro for **multi-gradient histogram overlays**, ideal for **energy-spectra visualization** and **data presentation** in experimental and nuclear physics.
 
 This project was **inspired by** the original ROOT OpenGL gradient tutorial by **Timur Pocheptsov**, and extends it by supporting **multiple gradient palettes** on a single canvas — suitable for comparing spectral distributions or highlighting overlapping datasets.
 
