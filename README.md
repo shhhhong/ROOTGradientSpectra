@@ -17,7 +17,7 @@ This project was **inspired by** the original ROOT OpenGL gradient tutorial by *
 
 ## Example
 
-<img src="multidraw/demo.png" width="600">
+<img src="multidraw.png" width="600">
 
 Run:
 ```bash
